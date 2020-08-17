@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+      "projectUniqueName": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
       "projectName": "Passenger.Api",
-      "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+      "projectPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-      "outputPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\obj\\",
+      "outputPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,8 +70,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
-              "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+            "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+              "projectPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
             }
           }
         }

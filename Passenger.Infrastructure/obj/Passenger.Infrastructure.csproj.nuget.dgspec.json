@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {}
+    "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+    "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+        "projectUniqueName": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
         "projectName": "Passenger.Core",
-        "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+        "projectPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
         "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-        "outputPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\obj\\",
+        "outputPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+    "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+        "projectUniqueName": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
         "projectName": "Passenger.Infrastructure",
-        "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+        "projectPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-        "outputPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\obj\\",
+        "outputPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
-                "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+              "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+                "projectPath": "d:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
               }
             }
           }
