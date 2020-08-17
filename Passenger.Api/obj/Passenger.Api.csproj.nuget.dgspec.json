@@ -1,9 +1,68 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {}
+    "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj": {}
   },
   "projects": {
+    "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+        "projectName": "Passenger.Api",
+        "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+        "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
+        "outputPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+                "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
       "version": "1.0.0",
       "restore": {

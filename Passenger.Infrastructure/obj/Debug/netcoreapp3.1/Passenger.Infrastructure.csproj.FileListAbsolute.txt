@@ -1,0 +1,11 @@
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.deps.json
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.dll
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.pdb
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Core.dll
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Core.pdb
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.csprojAssemblyReference.cache
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.AssemblyInfoInputs.cache
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.AssemblyInfo.cs
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.csproj.CopyComplete
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.dll
+D:\Programowanie\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.pdb

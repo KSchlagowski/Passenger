@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Passenger.Core.dll": {}
         }
+      },
+      "Passenger.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Passenger.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Passenger.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Passenger.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,16 @@
       "type": "project",
       "path": "../Passenger.Core/Passenger.Core.csproj",
       "msbuildProject": "../Passenger.Core/Passenger.Core.csproj"
+    },
+    "Passenger.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Passenger.Infrastructure/Passenger.Infrastructure.csproj",
+      "msbuildProject": "../Passenger.Infrastructure/Passenger.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Passenger.Core >= 1.0.0"
+      "Passenger.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
-      "projectName": "Passenger.Infrastructure",
-      "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+      "projectName": "Passenger.Api",
+      "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-      "outputPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\obj\\",
+      "outputPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +70,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
-              "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+            "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+              "projectPath": "D:\\Programowanie\\Passenger\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
             }
           }
         }
@@ -77,6 +95,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

@@ -1,0 +1,8 @@
+D:\Programowanie\Passenger\Passenger\Passenger.Core\bin\Debug\netcoreapp3.1\Passenger.Core.deps.json
+D:\Programowanie\Passenger\Passenger\Passenger.Core\bin\Debug\netcoreapp3.1\Passenger.Core.dll
+D:\Programowanie\Passenger\Passenger\Passenger.Core\bin\Debug\netcoreapp3.1\Passenger.Core.pdb
+D:\Programowanie\Passenger\Passenger\Passenger.Core\obj\Debug\netcoreapp3.1\Passenger.Core.csprojAssemblyReference.cache
+D:\Programowanie\Passenger\Passenger\Passenger.Core\obj\Debug\netcoreapp3.1\Passenger.Core.AssemblyInfoInputs.cache
+D:\Programowanie\Passenger\Passenger\Passenger.Core\obj\Debug\netcoreapp3.1\Passenger.Core.AssemblyInfo.cs
+D:\Programowanie\Passenger\Passenger\Passenger.Core\obj\Debug\netcoreapp3.1\Passenger.Core.dll
+D:\Programowanie\Passenger\Passenger\Passenger.Core\obj\Debug\netcoreapp3.1\Passenger.Core.pdb
